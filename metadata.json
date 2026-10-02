@@ -1,0 +1,7 @@
+{
+  "name": "LifeDiary - Daily Journal",
+  "description": "A modern, private, responsive daily journal and life diary to document your days with auto-save, photo attachments, and full offline storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
